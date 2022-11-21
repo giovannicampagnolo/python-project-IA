@@ -1,2 +1,2 @@
 # python-project-IA
-Some project on Python for IA
+Some project on Python for AI
